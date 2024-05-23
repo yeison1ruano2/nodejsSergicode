@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-node-crud",
+  "version": "0.0.1",
+  "description": "Crud con nodejs y mongo db",
+  "main": "source/app.js",
+  "scripts": {
+    "dev": "nodemon source/app.js"
+  },
+  "author": "Yeison Ruano",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}

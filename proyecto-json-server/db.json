@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "AngularJS desde cero"
+        }
+      ],
+      "id": "0e73"
+    },
+    {
+      "id": "63ee",
+      "nombre": "Yeison",
+      "apellido": "Ruano Silva",
+      "materias": [
+        {
+          "nombre": "Java desde cero"
+        },
+        {
+          "nombre": "Spring boot desde cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "d993"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 5.7,
+      "id": "a51b"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedio",
+      "id": "b53e"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": 5,
+      "dificultad": "facil",
+      "id": "866e"
+    },
+    {
+      "nombre": "AngularJS desde cero",
+      "duracion": 6,
+      "dificultad": "dificil",
+      "id": "56c1"
+    }
+  ]
+}

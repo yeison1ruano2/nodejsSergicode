@@ -1,0 +1,26 @@
+{
+  "name": "nodejssergicode",
+  "version": "0.0.1",
+  "description": "Proyecto de Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon source/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeison1ruano2/nodejsSergicode.git"
+  },
+  "author": "Yeison Ruano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeison1ruano2/nodejsSergicode/issues"
+  },
+  "homepage": "https://github.com/yeison1ruano2/nodejsSergicode#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
